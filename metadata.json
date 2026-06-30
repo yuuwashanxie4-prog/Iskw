@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IPA Profile Automator",
+  "description": "Automatically extracts IPA metadata to generate custom iOS configuration profiles for effortless setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
